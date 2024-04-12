@@ -29,7 +29,7 @@ This repository contains the SQL scripts and documentation for a database design
 
 ## Usage
 
-After setting up the database, you can start querying the data or inserting new records. Here are some example operations you can perform:
+After setting up the database, to start querying the data or inserting new records. Here are some example operations to perform:
 
 ### Querying the Database
 
