@@ -2,14 +2,14 @@
 A MySQL database project for managing operations of the Alvand Tile manufacturing company, including production, personnel, and environmental data.
 
 ## Overview
-This repository contains the SQL scripts and documentation for a database designed for managing operations of a Tile manufacturing company named Alvand Tile & Ceramic Industries. The project encompasses the creation of a MySQL database to store operational details, production capacities, employee management, and environmental impact assessments of different factory locations.
+This repository contains the SQL scripts, documentation, and additional resources for a database designed to manage the operations of Alvand Tile & Ceramic Industries. The project, completed two years ago, includes a MySQL database schema for operational details, production capacities, employee management, and environmental impact assessments. As of the time of writing, I no longer have access to the actual company data used during the project's development. Therefore, the repository includes generalized or anonymized data structures and test data, designed to illustrate the database functionalities without revealing sensitive information.
 
 ## Getting Started
 
 ### Prerequisites
 
-- MySQL Server (Version 5.7 or newer recommended)
-- MySQL Workbench or any SQL client that supports MySQL
+MySQL Server (Version 8.0 or newer recommended): This project was initially developed using MySQL Server 8.0. This version introduced significant updates and features that may be necessary for optimal performance and compatibility with the project scripts.
+MySQL Workbench (Version 8.0 or newer recommended): To manage the database schema and execute SQL scripts, MySQL Workbench 8.0 or newer is recommended due to enhancements that support newer SQL standards and improved usability features.
 
 ### Installation
 
